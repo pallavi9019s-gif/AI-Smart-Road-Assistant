@@ -1,0 +1,438 @@
+[
+  {
+    "id": "rep-1791205199969-1yeft",
+    "timestamp": "2026-10-05T12:59:59.969Z",
+    "source": "upload",
+    "primaryHazard": "Road Clear - Normal Conditions",
+    "category": "clear",
+    "dangerLevel": "LOW",
+    "confidence": 99,
+    "description": "The highway appears to be in excellent condition with clear asphalt, good lane markings, and favorable weather conditions.",
+    "recommendation": "Maintain safe following distance from vehicles ahead and continue driving at highway speeds as dictated by signage.",
+    "voiceAlert": "Road conditions normal. Proceed with caution.",
+    "estimatedDistance": "N/A",
+    "lanePosition": "N/A",
+    "roadSurface": "asphalt",
+    "weatherLighting": "clear_day",
+    "hazardsList": []
+  },
+  {
+    "id": "rep-1791205185981-lurm2",
+    "timestamp": "2026-10-05T12:59:45.981Z",
+    "source": "upload",
+    "primaryHazard": "Fallen Tree Branch in Lane",
+    "category": "obstacle",
+    "dangerLevel": "HIGH",
+    "confidence": 99,
+    "description": "A large fallen tree branch significantly obstructs the right lane and shoulder, creating a direct collision risk for vehicles.",
+    "recommendation": "Immediately decelerate, check left blind spot, and safely merge into the oncoming lane if clear, or come to a complete stop before the obstruction.",
+    "voiceAlert": "Warning. Large fallen tree branch ahead. Reduce speed and prepare to stop.",
+    "estimatedDistance": "0-5 meters ahead",
+    "lanePosition": "Right carriageway and shoulder",
+    "roadSurface": "asphalt",
+    "weatherLighting": "rainy_wet",
+    "hazardsList": [
+      {
+        "name": "Fallen tree branch",
+        "type": "obstacle",
+        "dangerLevel": "HIGH",
+        "box": [
+          403,
+          335,
+          680,
+          999
+        ]
+      },
+      {
+        "name": "Wet road surface",
+        "type": "unsafe_condition",
+        "dangerLevel": "MEDIUM",
+        "box": [
+          490,
+          0,
+          836,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rep-1791205181297-310b7",
+    "timestamp": "2026-10-05T12:59:41.297Z",
+    "source": "upload",
+    "primaryHazard": "Deep Pothole with Exposed Base",
+    "category": "pothole",
+    "dangerLevel": "HIGH",
+    "confidence": 99,
+    "description": "A large, deep, crater-like pothole is centrally located in the driving path, featuring jagged broken asphalt edges and exposed base aggregate.",
+    "recommendation": "Immediately decelerate, avoid abrupt swerving, maintain a firm grip on the steering wheel, and navigate carefully around or brake safely if lane shift is clear.",
+    "voiceAlert": "Warning. Deep pothole directly ahead. Please slow down.",
+    "estimatedDistance": "Direct undercarriage zone (0-5m)",
+    "lanePosition": "Center lane",
+    "roadSurface": "asphalt",
+    "weatherLighting": "clear_day",
+    "hazardsList": [
+      {
+        "name": "Deep Pothole",
+        "type": "pothole",
+        "dangerLevel": "HIGH",
+        "box": [
+          404,
+          153,
+          814,
+          888
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rep-1791205174399-ksejs",
+    "timestamp": "2026-10-05T12:59:34.399Z",
+    "source": "upload",
+    "primaryHazard": "Road Clear - Normal Conditions",
+    "category": "clear",
+    "dangerLevel": "LOW",
+    "confidence": 99,
+    "description": "The roadway is a well-maintained, multi-lane asphalt highway in excellent condition with no visible potholes, cracks, or obstructions. Visibility is optimal under clear, sunny daytime conditions.",
+    "recommendation": "Maintain current speed and follow traffic regulations. Continue monitoring vehicles ahead.",
+    "voiceAlert": "Road conditions normal.",
+    "estimatedDistance": "N/A",
+    "lanePosition": "Center",
+    "roadSurface": "asphalt",
+    "weatherLighting": "clear_day",
+    "hazardsList": []
+  },
+  {
+    "id": "rep-1791205135454-20seo",
+    "timestamp": "2026-10-05T12:58:55.454Z",
+    "source": "upload",
+    "primaryHazard": "Deep Pothole with Exposed Base",
+    "category": "pothole",
+    "dangerLevel": "HIGH",
+    "confidence": 99,
+    "description": "A large, deep pothole with sharp broken asphalt edges and loose gravel debris is directly in the path of travel. The crater is significant enough to cause tire rupture or suspension damage.",
+    "recommendation": "Immediately decelerate, avoid abrupt braking to prevent losing control, and steer around the hazard if safely possible without changing lanes into traffic.",
+    "voiceAlert": "Warning. Deep pothole detected directly ahead. Please slow down.",
+    "estimatedDistance": "Direct undercarriage zone (0-5m)",
+    "lanePosition": "Center lane",
+    "roadSurface": "asphalt",
+    "weatherLighting": "clear_day",
+    "hazardsList": [
+      {
+        "name": "Deep Pothole",
+        "type": "pothole",
+        "dangerLevel": "HIGH",
+        "box": [
+          426,
+          175,
+          785,
+          874
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rep-1791205082132-5bimu",
+    "timestamp": "2026-10-05T12:58:02.132Z",
+    "source": "upload",
+    "primaryHazard": "High Pedestrian Density and Obstructions",
+    "category": "obstacle",
+    "dangerLevel": "MEDIUM",
+    "confidence": 95,
+    "description": "The scene displays a high-traffic, semi-urban road area characterized by significant pedestrian presence, street-side stalls, and parked vehicles creating informal, non-delineated road margins. The surface appears uneven and cluttered with potential human movement directly in the path of vehicular flow.",
+    "recommendation": "Reduce speed significantly to 15-20 km/h, maintain high situational awareness for sudden pedestrian crossings, and prepare for emergency braking.",
+    "voiceAlert": "Caution. High pedestrian activity and road congestion ahead. Reduce speed.",
+    "estimatedDistance": "0-15 meters ahead",
+    "lanePosition": "Full lane obstruction",
+    "roadSurface": "asphalt",
+    "weatherLighting": "clear_day",
+    "hazardsList": [
+      {
+        "name": "High Pedestrian Activity",
+        "type": "obstacle",
+        "dangerLevel": "MEDIUM",
+        "box": [
+          422,
+          175,
+          786,
+          305
+        ]
+      },
+      {
+        "name": "Roadside Obstructions/Stalls",
+        "type": "obstacle",
+        "dangerLevel": "LOW",
+        "box": [
+          342,
+          608,
+          810,
+          994
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rep-1791204876698-cdx1z",
+    "timestamp": "2026-10-05T12:54:36.698Z",
+    "source": "upload",
+    "primaryHazard": "Road Clear - Normal Conditions",
+    "category": "clear",
+    "dangerLevel": "LOW",
+    "confidence": 99,
+    "description": "The roadway is in excellent condition with clear visibility, well-maintained asphalt, and standard traffic flow under clear daylight conditions.",
+    "recommendation": "Maintain current speed and follow traffic laws.",
+    "voiceAlert": "Road conditions normal. Proceed with caution.",
+    "estimatedDistance": "N/A",
+    "lanePosition": "N/A",
+    "roadSurface": "asphalt",
+    "weatherLighting": "clear_day",
+    "hazardsList": []
+  },
+  {
+    "id": "rep-1791204871676-mbn74",
+    "timestamp": "2026-10-05T12:54:31.676Z",
+    "source": "upload",
+    "primaryHazard": "Fallen Tree Branch in Lane",
+    "category": "obstacle",
+    "dangerLevel": "HIGH",
+    "confidence": 99,
+    "description": "A large tree has fallen across the right lane and shoulder, significantly obstructing the path of travel.",
+    "recommendation": "Immediately slow down, engage hazard lights, and prepare to cautiously navigate into the oncoming lane only when safe to pass.",
+    "voiceAlert": "Warning. Fallen tree blocking the road ahead. Reduce speed and prepare to stop.",
+    "estimatedDistance": "0-5 meters ahead",
+    "lanePosition": "Full lane obstruction",
+    "roadSurface": "asphalt",
+    "weatherLighting": "rainy_wet",
+    "hazardsList": [
+      {
+        "name": "Fallen Tree",
+        "type": "obstacle",
+        "dangerLevel": "HIGH",
+        "box": [
+          403,
+          332,
+          679,
+          937
+        ]
+      },
+      {
+        "name": "Wet Road Surface",
+        "type": "unsafe_condition",
+        "dangerLevel": "MEDIUM",
+        "box": [
+          478,
+          0,
+          834,
+          458
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rep-1791204864780-5s1wx",
+    "timestamp": "2026-10-05T12:54:24.780Z",
+    "source": "upload",
+    "primaryHazard": "Deep Pothole with Exposed Base",
+    "category": "pothole",
+    "dangerLevel": "HIGH",
+    "confidence": 99,
+    "description": "A large, deep, and angular pothole is located directly in the vehicle's path. It features jagged, broken asphalt edges and exposed base gravel, posing a significant risk for tire damage or suspension impact.",
+    "recommendation": "Immediately reduce speed and steer to avoid the pothole if safe to do so. If impact is unavoidable, do not brake sharply while over the crater to avoid further suspension damage.",
+    "voiceAlert": "Warning. Deep pothole directly ahead. Please slow down and avoid.",
+    "estimatedDistance": "Direct undercarriage zone (0-5m)",
+    "lanePosition": "Center lane",
+    "roadSurface": "asphalt",
+    "weatherLighting": "clear_day",
+    "hazardsList": [
+      {
+        "name": "Deep Pothole",
+        "type": "pothole",
+        "dangerLevel": "HIGH",
+        "box": [
+          426,
+          172,
+          804,
+          887
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rep-1791204755578-sejk9",
+    "timestamp": "2026-10-05T12:52:35.578Z",
+    "source": "upload",
+    "primaryHazard": "Deep Pothole with Exposed Base",
+    "category": "pothole",
+    "dangerLevel": "HIGH",
+    "confidence": 99,
+    "description": "A significant, deep pothole with sharp broken edges and exposed aggregate is located directly in the path of travel.",
+    "recommendation": "Immediate lane change or deceleration is required to avoid severe tire, rim, and suspension damage.",
+    "voiceAlert": "Warning. Severe pothole directly ahead. Please slow down or change lanes.",
+    "estimatedDistance": "Direct undercarriage zone (0-5m)",
+    "lanePosition": "Center lane",
+    "roadSurface": "asphalt",
+    "weatherLighting": "clear_day",
+    "hazardsList": [
+      {
+        "name": "Deep Pothole",
+        "type": "pothole",
+        "dangerLevel": "HIGH",
+        "box": [
+          421,
+          122,
+          792,
+          878
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rep-1791204170833-vnf9i",
+    "timestamp": "2026-10-05T12:42:50.833Z",
+    "source": "upload",
+    "primaryHazard": "Severe Pavement Collapse and Open Drainage Hazard",
+    "category": "road_damage",
+    "dangerLevel": "HIGH",
+    "confidence": 95,
+    "description": "The right roadside and pedestrian pathway have experienced severe collapse, resulting in standing sludge, broken slabs, and an unprotected open drainage culvert directly adjacent to the path of travel.",
+    "recommendation": "Reduce speed immediately, stay clear of the degraded right shoulder and open drain, and navigate toward the firmer center roadway.",
+    "voiceAlert": "Warning. Severe road collapse and open drainage hazard ahead. Stay away from the right edge.",
+    "estimatedDistance": "Direct undercarriage zone (0-5m)",
+    "lanePosition": "Right wheel track and shoulder",
+    "roadSurface": "concrete",
+    "weatherLighting": "clear_day",
+    "hazardsList": [
+      {
+        "name": "Collapsed Pavement with Mud and Rubble",
+        "type": "road_damage",
+        "dangerLevel": "HIGH",
+        "box": [
+          565,
+          172,
+          988,
+          698
+        ]
+      },
+      {
+        "name": "Unprotected Open Drain Ingress",
+        "type": "obstacle",
+        "dangerLevel": "HIGH",
+        "box": [
+          478,
+          770,
+          755,
+          930
+        ]
+      },
+      {
+        "name": "Waterlogging and Road Surface Degradation",
+        "type": "unsafe_condition",
+        "dangerLevel": "MEDIUM",
+        "box": [
+          390,
+          80,
+          675,
+          328
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rep-init-01",
+    "timestamp": "2026-10-05T10:35:19.078Z",
+    "source": "upload",
+    "primaryHazard": "Deep Asphalt Pothole with Sharp Rim",
+    "category": "pothole",
+    "dangerLevel": "HIGH",
+    "confidence": 94,
+    "description": "A deep pothole measuring approx 40cm across with exposed aggregate and sharp asphalt edges directly in the main wheel track.",
+    "recommendation": "Reduce vehicle speed to under 25 km/h. Maintain firm steering wheel grip. Do not perform sudden swerves into oncoming traffic.",
+    "voiceAlert": "Warning. Dangerous deep pothole detected. Please slow down.",
+    "estimatedDistance": "8-12 meters ahead",
+    "lanePosition": "Right wheel track",
+    "roadSurface": "asphalt",
+    "weatherLighting": "clear_day",
+    "hazardsList": [
+      {
+        "name": "Primary Deep Pothole",
+        "type": "pothole",
+        "dangerLevel": "HIGH",
+        "box": [
+          450,
+          380,
+          680,
+          620
+        ]
+      },
+      {
+        "name": "Secondary surface fracturing",
+        "type": "road_damage",
+        "dangerLevel": "MEDIUM",
+        "box": [
+          600,
+          310,
+          720,
+          430
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rep-init-02",
+    "timestamp": "2026-10-05T07:35:19.078Z",
+    "source": "camera",
+    "primaryHazard": "Fallen Tree Branch / Roadway Debris",
+    "category": "obstacle",
+    "dangerLevel": "HIGH",
+    "confidence": 91,
+    "description": "Significant timber debris and branches blocking nearly 50% of the travel lane.",
+    "recommendation": "Check mirrors immediately, engage hazard lights, decelerate smoothly, and navigate around obstacle when adjacent lane is clear.",
+    "voiceAlert": "Warning. Dangerous road obstacle detected ahead. Decelerate safely.",
+    "estimatedDistance": "15-20 meters ahead",
+    "lanePosition": "Center-right lane",
+    "roadSurface": "asphalt",
+    "weatherLighting": "rainy_wet",
+    "hazardsList": [
+      {
+        "name": "Large Branch Obstacle",
+        "type": "obstacle",
+        "dangerLevel": "HIGH",
+        "box": [
+          500,
+          420,
+          750,
+          780
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rep-init-03",
+    "timestamp": "2026-10-05T03:35:19.078Z",
+    "source": "upload",
+    "primaryHazard": "Standing Surface Water / Hydroplaning Hazard",
+    "category": "unsafe_condition",
+    "dangerLevel": "MEDIUM",
+    "confidence": 87,
+    "description": "Substantial sheet water accumulation along road shoulder and outer tire lane following heavy rain.",
+    "recommendation": "Reduce speed by at least 15-20 km/h. Avoid sharp steering inputs or abrupt heavy braking to prevent aquaplaning.",
+    "voiceAlert": "Caution. Standing water on roadway. Reduce speed.",
+    "estimatedDistance": "10-25 meters zone",
+    "lanePosition": "Left carriageway gutter",
+    "roadSurface": "asphalt",
+    "weatherLighting": "rainy_wet",
+    "hazardsList": [
+      {
+        "name": "Water Pool Accumulation",
+        "type": "unsafe_condition",
+        "dangerLevel": "MEDIUM",
+        "box": [
+          420,
+          150,
+          790,
+          520
+        ]
+      }
+    ]
+  }
+]

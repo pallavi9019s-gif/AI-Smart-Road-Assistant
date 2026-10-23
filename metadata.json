@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Road Safety Assistant",
+  "description": "Real-time AI-powered road hazard detection and driver assistance prototype analyzing potholes, obstacles, road damage, and adverse conditions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
